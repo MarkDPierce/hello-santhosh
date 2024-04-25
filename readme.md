@@ -94,8 +94,8 @@ Begin by creating a `Dockerfile`. This file will utilize the official Golang ima
 
 Before proceeding with building the container, ensure you have the go.mod file. You have several options to obtain this:
 
-* Run go mod init hello-santhosh.
-* Copy go.mod from 00golang into 01docker.
+* Run `go mod init hello-santhosh`.
+* Copy `go.mod` from `00golang` into `01docker`.
 * Add `RUN go mod init hello-santhosh` to the `Dockerfile` just before the go build command.
 
 ### Building the Container
