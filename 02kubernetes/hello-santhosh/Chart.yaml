@@ -1,4 +1,4 @@
 apiVersion: v2
 name: hello-world
-description: A Helm chart for deploying hello-world application
+description: A Helm chart for deploying hello-santhosh application
 version: 0.1.0
