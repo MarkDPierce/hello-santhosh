@@ -96,7 +96,7 @@ Before proceeding with building the container, ensure you have the go.mod file. 
 
 * Run go mod init hello-santhosh.
 * Copy go.mod from 00golang into 01docker.
-* Add RUN go mod init hello-santhosh to the Dockerfile just before the go build command.
+* Add `RUN go mod init hello-santhosh` to the `Dockerfile` just before the go build command.
 
 ### Building the Container
 
