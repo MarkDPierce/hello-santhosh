@@ -144,7 +144,7 @@ If you're using Docker Desktop, I highly recommend enabling Kubernetes for a sea
 Once enabled, you should find an entry for docker-desktop in your kube config. Test this configuration by running:
 
 ```shell
-`k9s --context docker-desktop`
+k9s --context docker-desktop
 ```
 
 ### Helm Chart
