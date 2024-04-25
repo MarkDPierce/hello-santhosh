@@ -16,7 +16,7 @@ Shall we begin?
 
 ## Golang 
 
-[Golang](https://go.dev/) tands out as a versatile, low-level programming language widely employed in modern-day applications. Engineers turn to Golang to tackle challenges that lack readily available solutions online or on platforms like GitHub.
+[Golang](https://go.dev/) stands out as a versatile, low-level programming language widely employed in modern-day applications. Engineers turn to Golang to tackle challenges that lack readily available solutions online or on platforms like GitHub.
 
 To begin your journey with Golang, start by installing it. You can find installation instructions. [https://golang.org/doc/install]()
 
