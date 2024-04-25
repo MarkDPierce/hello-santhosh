@@ -1,0 +1,8 @@
+image:
+  repository: mdpierce/hello-santhosh
+  tag: 0.0.1
+  pullPolicy: IfNotPresent
+
+service:
+  type: ClusterIP
+  port: 8080
